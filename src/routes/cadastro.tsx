@@ -8,7 +8,7 @@ import { Checkbox } from "@/components/ui/checkbox";
 import { toast } from "sonner";
 import { MessageCircle, CheckCircle2, Sparkles, ShieldCheck, Clock3 } from "lucide-react";
 import logoAgenday from "@/assets/logo.png";
-import signupIllustration from "@/assets/Login-rafiki.png";
+import signupIllustration from "@/assets/login-rafiki.png";
 import { TERMS_VERSION, PRIVACY_VERSION } from "@/lib/legal-constants";
 import {
   validatePassword,
